@@ -1,4 +1,4 @@
-#Visit my [TodoApp](mishrashritodoapp.netlify.app)
+#Visit my [TodoApp](https://mishrashritodoapp.netlify.app/)
 
 #Visit my [Instagram](instagram.com/mishrashrihere)
 
